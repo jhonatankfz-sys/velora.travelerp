@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <!-- Outer Gold Ring -->
+  <circle cx="120" cy="120" r="114" stroke="#D4AF37" stroke-width="3" stroke-dasharray="6 3" opacity="0.85"/>
+  <!-- Main Background Circle in Warm Sand -->
+  <circle cx="120" cy="120" r="108" fill="#F7F3EB" stroke="#0B192C" stroke-width="4"/>
+  <!-- Inner Ocean Blue Ring -->
+  <circle cx="120" cy="120" r="98" fill="#0B192C"/>
+  <!-- Decorative Northern Sun & Waves -->
+  <path d="M70 125 C85 110, 105 110, 120 125 C135 140, 155 140, 170 125" stroke="#38BDF8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M75 137 C90 125, 108 125, 120 137 C132 149, 150 149, 165 137" stroke="#F7F3EB" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="120" cy="95" r="14" fill="#D4AF37"/>
+  <path d="M120 70 L120 76 M102 77 L106 82 M89 95 L95 95 M145 95 L151 95 M134 77 L138 82" stroke="#D4AF37" stroke-width="3" stroke-linecap="round"/>
+  <!-- Brand Name VELORA -->
+  <text x="120" y="168" text-anchor="middle" font-family="'Outfit', 'Plus Jakarta Sans', sans-serif" font-weight="900" font-size="28" fill="#FFFFFF" letter-spacing="4">VELORA</text>
+  <!-- Subtitle -->
+  <text x="120" y="184" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-weight="600" font-size="9" fill="#38BDF8" letter-spacing="3">RUTAS Y EXPERIENCIAS</text>
+</svg>
